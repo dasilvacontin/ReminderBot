@@ -1,0 +1,11 @@
+{
+  "name": "ReminderBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David da Silva Contín <dasilvacontin@gmail.com> (http://dasilvacont.in/)",
+  "license": "ISC"
+}

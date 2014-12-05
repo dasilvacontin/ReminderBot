@@ -1,0 +1,19 @@
+module.exports = {
+    
+    service: 'Gmail',
+    auth: {
+        user: 'your-gmail-email',
+        pass: 'your-gmail-password'
+    },
+    
+    from: 'Your name <your-email@gmail.com>', // sender address
+    to: 'targets-email',
+    bcc: 'your-email (optional)',
+    subject: 'the subject',
+    
+    target: 'name-of-your-target',
+    you: 'your-name',
+    reminderBody: 'your-reminder',
+    msInterval: 60/*min*/ *60*1000
+    
+}
